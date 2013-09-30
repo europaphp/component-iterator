@@ -1,5 +1,5 @@
 {
-  "name": "europaphp/iterator",
+  "name": "europaphp/component-iterator",
   "description": "EuropaPHP iterator component.",
   "keywords": ["mvc", "view", "controller", "fast", "scalable", "simple", "module", "modular"],
   "license": "MIT",
